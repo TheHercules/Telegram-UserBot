@@ -1,0 +1,13 @@
+API_ID="354020"
+API_HASH="49f6dad0b1edd15d106e48edd4d6442d"
+LOGGER_GROUP="-309432147"
+LOGGER=True    #Incase you want to turn off logging, put this to false
+CONSOLE_LOGGER_VERBOSE=True
+TRT_ENABLE=False
+PM_AUTO_BAN=False
+TTS_ENABLE=False
+TRT_API_USERNAME="2cc35c3e-cbf9-4cb0-9e1c-0074c581d1ae"    #For Using IBM Translator API
+TTS_API_USERNAME="e4d46943-6932-486b-85b6-569e1054c9c8"    #For IBM Voice API
+TRT_API_PASSWORD="PJUwECAamRej"
+TTS_API_PASSWORD="L3DCpgQaSGGs"
+
